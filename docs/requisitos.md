@@ -1,37 +1,10 @@
-Boa 👏 agora você começou a pensar como desenvolvedor profissional.
-
-Criar **documentação e requisitos antes de programar** já te coloca na frente de muita gente.
-
-Vou montar um modelo base considerando que seu projeto será um **Sistema de Controle Empresarial (ordens de serviço + clientes)** — algo forte para seu portfólio.
-
----
-
 # 📄 Documento de Requisitos
 
 ## Sistema de Gestão de Ordens de Serviço
 
 ---
 
-# 1️⃣ Objetivo do Sistema
-
-Desenvolver um sistema web para controle de clientes, serviços e ordens de serviço de uma empresa, permitindo melhor organização, acompanhamento e controle financeiro básico.
-
----
-
-# 2️⃣ Escopo do Sistema
-
-O sistema permitirá:
-
-* Cadastro de clientes
-* Cadastro de serviços
-* Abertura de ordens de serviço
-* Atualização de status
-* Consulta e listagem de ordens
-* Controle básico de valores
-
----
-
-# 3️⃣ Requisitos Funcionais (RF)
+# Requisitos Funcionais (RF)
 
 Requisitos funcionais descrevem o que o sistema DEVE fazer.
 
@@ -74,7 +47,7 @@ Requisitos funcionais descrevem o que o sistema DEVE fazer.
 
 ---
 
-# 4️⃣ Requisitos Não Funcionais (RNF)
+# Requisitos Não Funcionais (RNF)
 
 Requisitos que definem como o sistema deve se comportar.
 
@@ -87,7 +60,7 @@ Requisitos que definem como o sistema deve se comportar.
 
 ---
 
-# 5️⃣ Regras de Negócio (RN)
+# Regras de Negócio (RN)
 
 **RN01** – Uma ordem de serviço não pode ser criada sem cliente vinculado.
 **RN02** – Uma ordem finalizada não pode voltar para “Em andamento”.
@@ -96,7 +69,7 @@ Requisitos que definem como o sistema deve se comportar.
 
 ---
 
-# 6️⃣ Possíveis Funcionalidades Futuras (Melhorias)
+# Possíveis Funcionalidades Futuras (Melhorias)
 
 * Geração de PDF da ordem
 * Envio de ordem por WhatsApp
